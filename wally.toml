@@ -1,5 +1,5 @@
 [package]
-name = "ahmoin/plant"
+name = "ahmoin/plant-wally"
 version = "1.0.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
