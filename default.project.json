@@ -1,0 +1,30 @@
+{
+  "name": "Plant",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedFirst": {
+      "Source": {
+        "$path": "src/ReplicatedFirst"
+      }
+    },
+    "ReplicatedStorage": {
+      "Source": {
+        "$path": "src/ReplicatedStorage"
+      },
+      "Packages": {
+        "$path": "Packages"
+      }
+    },
+    "ServerScriptService": {
+      "start": {
+        "$path": "src/ServerScriptService"
+      }
+    },
+    "ServerStorage": {
+      "Source": {
+        "$path": "src/ServerStorage"
+      }
+    }
+  },
+  "emitLegacyScripts": false
+}

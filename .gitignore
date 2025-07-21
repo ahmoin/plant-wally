@@ -1,0 +1,10 @@
+# Project place file
+/Plant.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Wally packages
+/Packages
+/wally.lock
